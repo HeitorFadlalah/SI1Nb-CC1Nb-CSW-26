@@ -1,0 +1,22 @@
+body {
+    background-color: #0b65ec;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    margin: 0;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #001f4e;
+}
+
+h2 {
+    color:red
+}
+
+.caixa-conteudo {
+    max-width: 850px;
+    margin: 40px auto;
+    background: white;
+    padding: 35px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
